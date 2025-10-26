@@ -33,8 +33,8 @@ main {
 }
 
 .left-bottom {
-  background-image: url(https://i.pinimg.com/1200x/c8/92/66/c8926645daaa29ea5e0e3a672c6a234e.jpg);
-  background-position: top;
+  background-image: url(https://i.pinimg.com/736x/9e/e6/95/9ee69509bf2881373b1bdfd7abddcc5b.jpg);
+  background-position: center;
   background-size: cover;
   grid-area: left-bottom;
   border-radius: 20px;
@@ -57,7 +57,7 @@ main {
 }
 
 .right-top {
-  background-image: url(https://i.pinimg.com/736x/9e/e6/95/9ee69509bf2881373b1bdfd7abddcc5b.jpg);
+  background-image: url(https://i.pinimg.com/1200x/c8/92/66/c8926645daaa29ea5e0e3a672c6a234e.jpg);
   background-position: center;
   background-size: cover;
   grid-area: right-top;
